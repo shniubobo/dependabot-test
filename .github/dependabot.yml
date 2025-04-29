@@ -13,3 +13,9 @@ updates:
     directory: "/ruby"
     schedule:
       interval: "weekly"
+  - package-ecosystem: cargo
+    directories:
+      - "/"
+      - "/.cargo/config.toml"
+    schedule:
+      interval: "weekly"
