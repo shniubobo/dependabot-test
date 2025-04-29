@@ -15,6 +15,6 @@ updates:
       interval: "weekly"
   - package-ecosystem: cargo
     directories:
-      - "/"
+      - "**/*"
     schedule:
       interval: "weekly"
