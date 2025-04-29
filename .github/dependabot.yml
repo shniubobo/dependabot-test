@@ -16,6 +16,5 @@ updates:
   - package-ecosystem: cargo
     directories:
       - "/"
-      - "/.cargo/config.toml"
     schedule:
       interval: "weekly"
