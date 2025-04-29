@@ -2,4 +2,5 @@
 resolver = "2"
 members = [
     "cargo",
+    "cargo-2",
 ]
